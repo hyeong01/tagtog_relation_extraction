@@ -3,8 +3,8 @@
 
 ## How to Use
 ### On Tagtog
-- Go to Project > Downloads
-- Download all documents, using the button below
+**1. Go to Project > Downloads**
+**2. Download all documents, using the button below**
 ![Image](https://i.imgur.com/dmruuVo.png)
 ### On Local
 **1. Place folders and files according to the structure specified below:**
