@@ -24,14 +24,9 @@ Your_download_file_name
 └──README.md
 ```
 **2. Install other required packages**
-  - torch==1.7.1
-  - torchvision==0.8.2
-  - tensorboard==2.4.1
+  - tqdm==4.62.3
   - pandas==1.1.5
-  - opencv-python==4.5.1.48
-  - scikit-learn~=0.24.1
-  - matplotlib==3.2.1
-  - albumentations==1.0.3
+  - beautifulsoup4==4.10.0
 
 ```
 $ pip install -r $ROOT/image-classification-level1-30/requirements.txt
