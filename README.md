@@ -3,7 +3,7 @@
 
 ## How to Use
 ### On Tagtog
-**1. Go to Project > Downloads**
+**1. Go to Project > Downloads** </br>
 **2. Download all documents, using the button below**
 ![Image](https://i.imgur.com/dmruuVo.png)
 ### On Local
