@@ -16,6 +16,7 @@ tagtog_relation_extraction
 ├──README.md
 ├──requirements.txt
 └──Your_download_file_name
+   ├──annotations-legend.json
    ├──ann.json
    |  └──master
    |     └──pool/
