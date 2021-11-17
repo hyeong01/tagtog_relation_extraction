@@ -59,4 +59,10 @@ obj_tag: POH
 label: POH:no_relation
 ```
 
-
+### Restrictions
+- Entity labels should follow the following form
+```
+SUBJ-{ENT_TYPE}-{RELATION_NAME}
+OBJ-{ENT_TYPE}-{RELATION_NAME}
+```
+- If this is not the case you might need some revision on the ```util.py file```
