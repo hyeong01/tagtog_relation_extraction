@@ -40,7 +40,7 @@ $ python main.py --path Your_download_file_Name
 
 ### Result
 **1. Dataset file (dataset.csv)**
-- csv file with rows in [KLUE dataset](https://www.google.com/search?q=klue+dataset&oq=KLUE+datas&aqs=chrome.0.0i512l3j69i57j69i60l4.2364j1j4&sourceid=chrome&ie=UTF-8) format
+- csv file with rows in [KLUE dataset](https://github.com/KLUE-benchmark/KLUE) format
 - example:
 ```
 sentence: 가장 가능성이 높은 새 대안은 플랑크 상수를 통해 질량을 정의하는 방안이다.질량의 단위는 킬로그램 외에도 여러가지가 있는데, 그중 대표적인 단위가 바로 원자질량단위이다
