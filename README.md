@@ -18,8 +18,8 @@ tagtog_relation_extraction
    ├──ann.json
    |  └──master
    |     └──pool/
-   |  └──plain.html
-   |     └──pool/
+   ├──plain.html
+   |  └──pool/
    ├──guidelines.md
    └──README.md
 ```
