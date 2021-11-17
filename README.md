@@ -14,6 +14,7 @@ tagtog_relation_extraction
 ├──util.py
 ├──.gitignore
 ├──README.md
+├──requirements.txt
 └──Your_download_file_name
    ├──ann.json
    |  └──master
