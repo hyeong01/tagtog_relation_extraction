@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# folders
+ko_wiki_energy_dataset/
+
+# .csv result files
+dataset.csv
+answer_check.csv
