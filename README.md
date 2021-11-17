@@ -39,8 +39,7 @@ $ python main.py --path Your_download_file_Name
 ```
 
 ### Result
-
-**1. Dataset file (dataset.csv)
+**1. Dataset file (dataset.csv)**
 - csv file with rows in [KLUE dataset](https://www.google.com/search?q=klue+dataset&oq=KLUE+datas&aqs=chrome.0.0i512l3j69i57j69i60l4.2364j1j4&sourceid=chrome&ie=UTF-8) format
 - example:
 ```
@@ -50,7 +49,7 @@ obj_tag: {'word': '플랑크 상수', 'start_idx': 17, 'end_idx': 22, 'type': 'P
 label: POH:no_relation'
 ```
 
-**2. File for checking answers (answer_check.csv)
+**2. File for checking answers (answer_check.csv)**
 - csv file desgined for checking entity taggings and labels
 - example:
 ```
