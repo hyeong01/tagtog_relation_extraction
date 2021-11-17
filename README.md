@@ -65,4 +65,4 @@ label: POH:no_relation
 SUBJ-{ENT_TYPE}-{RELATION_NAME}
 OBJ-{ENT_TYPE}-{RELATION_NAME}
 ```
-- If this is not the case you might need some revision on the ```util.py file```
+- If this is not the case you might need some revision on the ```util.py``` file
